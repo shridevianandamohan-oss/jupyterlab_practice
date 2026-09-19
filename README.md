@@ -1,1 +1,1 @@
-# jupyterlab_practice
+This repository is for practicing JupyterLab and GitHub skills.
